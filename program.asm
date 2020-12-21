@@ -1,0 +1,9 @@
+LW r0,2;
+LW r0,2;
+LW r1,3;
+LW r1,3;
+LW r2,1;
+LW r2,1;
+MUL r3,r0,r1;
+ADD r3,r3,r2;
+SW r3,0;
