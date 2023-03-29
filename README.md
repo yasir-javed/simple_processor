@@ -14,7 +14,7 @@ A = B + C*D
 where A, B, C and D are stored in data memory locations 0 to 3. B, C and D have values 200, 10 and 2 respectively. Hence at the last SW instruction 220 is written at memory address 0.
 
 # Assembler
-assembler.c is C++ code that can be used as assmebler. It can take mulitple command line arguments as input but most common use case is
+assembler.cpp is C++ code that can be used as assmebler. It can take mulitple command line arguments as input but most common use case is
 
 .\assembler.exe <asm file> <hex file>
 
