@@ -16,7 +16,7 @@ where A, B, C and D are stored in data memory locations 0 to 3. B, C and D have 
 # Assembler
 assembler.cpp is C++ code that can be used as assmebler. It can take mulitple command line arguments as input but most common use case is
 
-.\assembler.exe <asm file> <hex file>
+.\assembler.exe \<asm file> \<hex file>
 
 e.g. to create program.hex from program.asm, write
 
