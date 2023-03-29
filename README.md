@@ -22,8 +22,8 @@ e.g. to create program.hex from program.asm, write
 
 .\assembler.exe program.asm program.hex
 
-# Design video (Urdu/Hindi)
-Design is explained (in Urdu/Hindi language) in following video
+# Design video
+Design is explained in following video
 
 
-[![A simple processor from scratch](https://img.youtube.com/vi/Pkq9S6vCsm0/0.jpg)](https://www.youtube.com/watch?v=Pkq9S6vCsm0)
+[![A simple processor from scratch](https://img.youtube.com/vi/HCzIK322Pzw/0.jpg)](https://www.youtube.com/watch?v=HCzIK322Pzw)
